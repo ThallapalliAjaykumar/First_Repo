@@ -1,0 +1,14 @@
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\bin\Debug\net8.0\simple_Csharp_pgm.exe
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\bin\Debug\net8.0\simple_Csharp_pgm.deps.json
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\bin\Debug\net8.0\simple_Csharp_pgm.runtimeconfig.json
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\bin\Debug\net8.0\simple_Csharp_pgm.dll
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\bin\Debug\net8.0\simple_Csharp_pgm.pdb
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\obj\Debug\net8.0\simple_Csharp_pgm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\obj\Debug\net8.0\simple_Csharp_pgm.AssemblyInfoInputs.cache
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\obj\Debug\net8.0\simple_Csharp_pgm.AssemblyInfo.cs
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\obj\Debug\net8.0\simple_Csharp_pgm.csproj.CoreCompileInputs.cache
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\obj\Debug\net8.0\simple_Csharp_pgm.dll
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\obj\Debug\net8.0\refint\simple_Csharp_pgm.dll
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\obj\Debug\net8.0\simple_Csharp_pgm.pdb
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\obj\Debug\net8.0\simple_Csharp_pgm.genruntimeconfig.cache
+C:\Users\ajaykumar.thallapall\Documents\C# Prpgrams\simple_Csharp_pgm\obj\Debug\net8.0\ref\simple_Csharp_pgm.dll
